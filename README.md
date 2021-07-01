@@ -20,10 +20,10 @@
 
 <div align="center">
 	<a align="top" href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthroy12&theme=dracula&show_icons=true" alt="Siddhart's Top Languages" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthroy12&theme=dracula&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Siddhart's Top Languages" />
 	</a>
 	<a align="top" href="https://github.com/anuraghazra/github-readme-stats">
-		<img src="https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula" alt="Siddharth's GitHub stats" />
+		<img align="top" src="https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Siddharth's GitHub stats" />
 	</a>
 </div>
 
