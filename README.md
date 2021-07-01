@@ -20,12 +20,11 @@
 
 <p align="center">
 	<div align="top">
-	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthroy12&theme=dracula)
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthroy12&theme=dracula&show_icons=true" alt="Siddhart's Top Languages" />
 	</div>
 	<div align="top">
-	![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula)
+		<img src="https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula" alt="Siddharth's GitHub stats" />
 	</div>
-	
 </p>
 
 <p align="center">
