@@ -6,17 +6,11 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/siddharthroy12?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **siddharthroy36912@gmail.com**
 
 - ⚡ Fun fact **sometimes humorous**
-
-<p align="left">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png" alt="react" width="20" height="20"/> <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css3" width="20" height="20"/>
-	<img src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="html5" width="20" height="20"/>
-	<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/>
-</p>
 
 <div align="center">
 	<a align="top" href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,6 +20,9 @@
 		<img align="top" src="https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Siddharth's GitHub stats" />
 	</a>
 </div>
+
+<br />
+<br />
 
 <p align="center">
 	<a href="https://twitter.com/Siddharth_Roy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
