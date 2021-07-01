@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
-- 📫 How to reach me **sadypai@gmail.com**
+- 📫 How to reach me **siddharthroy36912@gmail.com**
 
 - ⚡ Fun fact **sometimes humorous**
 
@@ -18,16 +18,16 @@
 	<img src="https://cdn.iconscout.com/icon/free/png-512/javascript-20-555998.png" alt="javascript" width="20" height="20"/>
 </p>
 
-<p align="center">
+<div align="center">
 	<div align="top">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthroy12&theme=dracula&show_icons=true" alt="Siddhart's Top Languages" />
 	</div>
 	<div align="top">
 		<img src="https://github-readme-stats.vercel.app/api?username=siddharthroy12&show_icons=true&theme=dracula" alt="Siddharth's GitHub stats" />
 	</div>
-</p>
+</div>
 
 <p align="center">
-<a href="https://twitter.com/Siddharth_Roy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
-<a href="https://instagram.com/siddharthroy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
+	<a href="https://twitter.com/Siddharth_Roy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="paicube" height="20" width="20" /></a>
+	<a href="https://instagram.com/siddharthroy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pai_cube" height="20" width="20" /></a>
 </p>
