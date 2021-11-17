@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working on [Httpman](https://github.com/siddharthroy12/httpman)
 
-- 🌱 I'm currently learning **Web 3.0, Blockchain, Solidity**
+- 🌱 I'm currently learning **Electron Framework**
 
 - 👨‍💻 All of my projects are available at [siddharthroy.netlify.app](siddharthroy.netlify.app)
 
