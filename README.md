@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthroy12&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthroy12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/siddharth_roy12" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_roy12?logo=twitter&style=for-the-badge" alt="siddharth_roy12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reactoverflow" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_roy12?logo=twitter&style=for-the-badge" alt="siddharth_roy12" /></a> </p>
 
-- 🔭 I'm currently working on [Httpman](https://github.com/siddharthroy12/httpman)
+- 🔭 I'm currently working on my Internship
 
-- 🌱 I'm currently learning **Web 3.0, Blockchain, Solidity**
+- 🌱 I'm currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [siddharthroy.netlify.app](siddharthroy.netlify.app)
 
 - 📝 I regularly write articles on [siddharthroy.netlify.app/blogs/1](siddharthroy.netlify.app/blogs/1)
 
-- 💬 Ask me about **React, JS, C/C++**
+- 💬 Ask me about **React, JS, C/C++, Python**
 
 - 📫 How to reach me **siddharthroy36912@gmail.com**
 
@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siddharth_roy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharth_roy12" height="30" width="40" /></a>
-<a href="https://instagram.com/siddharthroy12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthroy12" height="30" width="40" /></a>
+<a href="https://twitter.com/reactoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddharth_roy12" height="30" width="40" /></a>
+<a href="https://instagram.com/reactoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthroy12" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCGn_bhauJcbNMTtD6eN2FqQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgn_bhaujcbnmttd6en2fqq" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
