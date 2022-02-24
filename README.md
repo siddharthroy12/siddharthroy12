@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthroy12&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthroy12" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reactoverflow" target="blank"><img src="https://img.shields.io/twitter/follow/siddharth_roy12?logo=twitter&style=for-the-badge" alt="siddharth_roy12" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reactoverflow" target="blank"><img src="https://img.shields.io/twitter/follow/reactoverflow?logo=twitter&style=for-the-badge" alt="reactoverflow" /></a> </p>
 
 - 🔭 I'm currently working on my Internship
 
