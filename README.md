@@ -83,9 +83,12 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://dev.to/siddharthroy" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/devto-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+    <img alt="devto" src="https://img.shields.io/badge/devto-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/reactoverflow" target="_blank">
+    <img alt="instagrams" src="https://img.shields.io/badge/instagram-%2312100E.svg?&logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://siddharthroy.netlify.app/" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
+    <img alt="website" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
   </a>
 </p>
