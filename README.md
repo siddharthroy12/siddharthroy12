@@ -45,6 +45,10 @@
       <td><a href="https://github.com/siddharthroy12/kosmos"><b>Kosmos: A bullet-hell in C99</b></a></td>
       <td><a href="https://github.com/siddharthroy12/kosmos/releases/tag/v2.2">Download and Play</a></td>
     </tr>
+    <tr>
+      <td><a href="https://www.lexaloffle.com/bbs/?uid=49222"><b>Dash&Doge: A unique retro arcade</b></a></td>
+      <td><a href="https://siddharthroy12.itch.io/dashdoge">Download and Play</a></td>
+    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
