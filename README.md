@@ -1,5 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hi there<img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/></h1>
 <p>Welcome to my profile! </br> I'm Siddharth, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>India</b></p>
+<ul>
+  <li>I'm a Full Stack Developer, with passion for programming and UI Desgin
+  </li>
+  <li>I can help you build your website
+  </li>
+  <li>I’m currently learning solidity
+  </li>
+  <li>I run the <a href="https://www.instagram.com/reactoverflow/">reacoverflow</a> Instagram page with over 15k followers
+  </li>
+</ul>
+
 <h3>Things I code with</h3>
 <p color="">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
