@@ -46,8 +46,12 @@
       <td><a href="https://github.com/siddharthroy12/kosmos/releases/tag/v2.2">Download and Play</a></td>
     </tr>
     <tr>
-      <td><a href="https://www.lexaloffle.com/bbs/?uid=49222"><b>Dash&Doge: A unique retro arcade</b></a></td>
-      <td><a href="https://siddharthroy12.itch.io/dashdoge">Download and Play</a></td>
+      <td><a href="https://www.lexaloffle.com/bbs/?pid=111184"><b>Rockets: A flying arcade game</b></a></td>
+      <td><a href="https://siddharthroy12.itch.io/rockets">Download and Play</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/siddharthroy12/simple-canvas2d"><b>simple-canvas2d: A simple library for making graphics and games using Canvas API</b></a></td>
+      <td><a href="https://www.npmjs.com/package/simple-canvas2d">NPM</a></td>
     </tr>
   </tbody>
 </table>
