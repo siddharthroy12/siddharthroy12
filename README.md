@@ -5,9 +5,9 @@
   </li>
   <li>I can help you build your website
   </li>
-  <li>I’m currently learning solidity
+  <li>I’m currently improving my DSA skills
   </li>
-  <li>I run the <a href="https://www.instagram.com/reactoverflow/">reacoverflow</a> Instagram page with over 15k followers
+  <li>I run the <a href="https://www.instagram.com/reactoverflow/">reactoverflow</a> Instagram page with over 15k followers
   </li>
 </ul>
 
