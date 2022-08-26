@@ -17,6 +17,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-33A9BE?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="yarn" src="https://img.shields.io/badge/-Yarn-347CBA?style=flat-square&logo=yarn&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="cpp" src="https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cpp&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -54,43 +55,39 @@
       <td><a href="https://gravity-sandbox.netlify.app/">gravity-sandbox.netlify.app</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/siddharthroy12/kosmos"><b>Kosmos: A bullet-hell in C99</b></a></td>
-      <td><a href="https://github.com/siddharthroy12/kosmos/releases/tag/v2.2">Download and Play</a></td>
+      <td><a href="https://github.com/siddharthroy12/TouchTyper"><b>TouchTyper: A typing test software</b></a></td>
+      <td><a href="https://github.com/siddharthroy12/TouchTyper">Download</a></td>
     </tr>
     <tr>
       <td><a href="https://www.lexaloffle.com/bbs/?pid=111184"><b>Rockets: A flying arcade game</b></a></td>
       <td><a href="https://siddharthroy12.itch.io/rockets">Download and Play</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/siddharthroy12/simple-canvas2d"><b>simple-canvas2d: A simple library for making graphics and games using Canvas API</b></a></td>
-      <td><a href="https://www.npmjs.com/package/simple-canvas2d">NPM</a></td>
     </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
 <ul>
   <li>
-    <a href="https://siddharthroy.netlify.app/blog/all-react-hooks-explained-42p3">
+    <a href="https://www.instagram.com/p/ChcIisOp8ye/" target="_blank">
       <b>
-        All React hooks explained
+        Jamstack Architecture Explained
       </b>
   </li>
   <li>
-    <a href="https://siddharthroy.netlify.app/blog/how-to-build-an-express-and-nodejs-app-with-typescript-2kc3">
+    <a href=https://www.instagram.com/p/ChMCzzjr3-J" target="_blank">
       <b>
-        How to build an Express and Node.js app with Typescript
+        Edge Computing Explained
       </b>
   </li>
   <li>
-    <a href="https://siddharthroy.netlify.app/blog/build-a-free-blog-with-nextjs-and-netlify-cms-125h">
+    <a href="https://www.instagram.com/p/Cg6ecUOpELN/" target="_blank">
       <b>
-        Build a free blog with Next.js and Netlify CMS
+        An Introduction On SolidJS
       </b>
   </li>
   <li>
-    <a href="https://siddharthroy.netlify.app/blog/developers-portfolio-to-checkout-4eem">
+    <a href="https://www.instagram.com/p/Cf6rtHOrLyY/" target="_blank">
       <b>
-        Developer Portfolios To Check out
+        How To Get Good At LeetCode
       </b>
   </li>
 </ul>
