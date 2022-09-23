@@ -1,5 +1,5 @@
 <h1>Hi there<img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/></h1>
-<p>I'm Siddharth, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/330/330439.png" width="13"/> <b>India</b></p>
+<p>I'm Siddharth, A Fullstack developer(JavaScript).</p>
 <ul>
   <li>I'm a Full Stack Developer, with passion for programming and UI Desgin
   </li>
