@@ -7,7 +7,6 @@
   </li>
   <li>I'm currently improving my DSA skills
   </li>
-  <li>I run the <a href="https://www.instagram.com/reactoverflow/">reactoverflow</a> Instagram page with over 20k+ followers
   </li>
 </ul>
 
@@ -64,33 +63,6 @@
     </tr>
   </tbody>
 </table>
-<h3>My latest posts</h3>
-<ul>
-  <li>
-    <a href="https://www.instagram.com/p/ChcIisOp8ye/" target="_blank">
-      <b>
-        Jamstack Architecture Explained
-      </b>
-  </li>
-  <li>
-    <a href=https://www.instagram.com/p/ChMCzzjr3-J" target="_blank">
-      <b>
-        Edge Computing Explained
-      </b>
-  </li>
-  <li>
-    <a href="https://www.instagram.com/p/Cg6ecUOpELN/" target="_blank">
-      <b>
-        An Introduction On SolidJS
-      </b>
-  </li>
-  <li>
-    <a href="https://www.instagram.com/p/Cf6rtHOrLyY/" target="_blank">
-      <b>
-        How To Get Good At LeetCode
-      </b>
-  </li>
-</ul>
 <h3>Where to find me</h3>
 <p>
   <a href="https://twitter.com/reactoverflow" target="_blank">
@@ -101,9 +73,6 @@
   </a>
   <a href="https://dev.to/siddharthroy" target="_blank">
     <img alt="devto" src="https://img.shields.io/badge/devto-%2312100E.svg?&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/reactoverflow" target="_blank">
-    <img alt="instagrams" src="https://img.shields.io/badge/instagram-%2312100E.svg?&logo=instagram&style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://siddharthroy.netlify.app/" target="_blank">
     <img alt="website" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
