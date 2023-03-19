@@ -1,14 +1,5 @@
 <h1>Hi there<img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/></h1>
 <p>I'm Siddharth, A Fullstack developer(JavaScript).</p>
-<ul>
-  <li>I'm a Full Stack Developer, with passion for programming and UI Desgin
-  </li>
-  <li>I can help you build your website
-  </li>
-  <li>I'm currently improving my DSA skills
-  </li>
-  </li>
-</ul>
 
 <h3>Things I code with</h3>
 <p color="">
@@ -70,9 +61,6 @@
   </a>
   <a href="https://www.linkedin.com/in/reactoverflow/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://dev.to/siddharthroy" target="_blank">
-    <img alt="devto" src="https://img.shields.io/badge/devto-%2312100E.svg?&style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://siddharthroy.netlify.app/" target="_blank">
     <img alt="website" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
