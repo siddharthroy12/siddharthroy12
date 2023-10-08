@@ -66,5 +66,3 @@
     <img alt="website" src="https://img.shields.io/badge/mywebsite-%2312100E.svg?&style=for-the-badge&logoColor=white" />
   </a>
 </p>
-
-If you like what I do and want to donate me here is my ether address 0x1624A3c08e53C8e217863899DE123AD116fC42af
