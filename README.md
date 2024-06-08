@@ -1,6 +1,3 @@
-<h1>Hi there<img src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="30"/></h1>
-<p>I'm Siddharth, A Fullstack developer.</p>
-
 <h3>Things I code with</h3>
 <p color="">
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
